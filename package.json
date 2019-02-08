@@ -1,0 +1,22 @@
+{
+  "name": "autoattendjobcan",
+  "version": "1.0.0",
+  "description": "ジョブカンの打刻自動化",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "japanese-holidays": "^1.0.6",
+    "koyomi": "^0.5.1",
+    "lodash": "^4.17.11",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}

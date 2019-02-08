@@ -1,4 +1,4 @@
-# slack-Cmd2Cmd
+# automate-jobcan
 勤怠アプリ `ジョブカン` の操作を自動化する
 
 ## Description
